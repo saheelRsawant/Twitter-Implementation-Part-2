@@ -1,6 +1,5 @@
 # Building and starting the application
-
-Simply run the following commands:
+Run the following commands:
 
 
 ## First start the server
@@ -8,6 +7,7 @@ Simply run the following commands:
 cd src
 dotnet run
 ```
+
 ## Next run the client
 ```
 cd src
