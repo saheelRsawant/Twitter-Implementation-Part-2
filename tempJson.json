@@ -1,0 +1,41 @@
+[
+    {
+        "userId": "user1",
+        "status" : "false"
+    },
+    {
+        "userId": "user2",
+        "status" : "false"
+    },
+    {
+        "userId": "user3",
+        "status" : "false"
+    },
+    {
+        "userId" : "user1"
+    },
+    {
+        "userId" : "user2"
+    },
+    {
+        "userId" : "user3"
+    },
+    
+    {
+        "userId" : "user1",
+        "tweet" : "This is a tweet by user1"
+    },
+    {
+        "userId" : "user2",
+        "tweet" : "This is a tweet by #user2"
+    },
+    {
+        "userId" : "user1",
+        "tweet" : "This is a tweet by @user1"
+    },
+    {
+        "userId" : "user3",
+        "tweet" : "This is a tweet by @user3 and #tweet"
+    }
+    ]
+    
